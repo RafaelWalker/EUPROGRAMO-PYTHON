@@ -1,0 +1,7 @@
+print("------------NOTAS--------------")
+nota1 = float(input("Digite a nota da Primeira Prova: "))
+nota2 = float(input("Digite a nota da Segunda Prova: "))
+nota3 = float(input("Digite a nota da Terceira Prova: "))
+soma = (nota1 + nota2 + nota3)
+print(soma)
+print("A Somas das notas é: %.2f" %soma)
